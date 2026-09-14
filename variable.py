@@ -1,0 +1,5 @@
+name = ("Deborah")
+age = (22)
+height = (8.69)
+country = ("Nigeria")
+print(name, age, height, country)
