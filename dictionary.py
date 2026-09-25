@@ -13,4 +13,4 @@ profile["current_skill"] = "Python"
 print(profile)
 for key in profile:
     print(f"{key}:{profile[key]}")
-    .
+    
